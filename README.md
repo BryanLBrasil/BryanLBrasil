@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineering Intern at AGROMAI! • Backend-focused Developer</h3>
 
 <p align="center">
-Software Engineering student at PUCRS and developer intern at Agromai. Focused on backend development with Python, FastAPI & Django, 
+Software Engineer developer intern at Agromai. Focused on backend development with Python, FastAPI & Django, 
   but also experienced with Java & Spring. 
 </p>
 
@@ -20,18 +20,12 @@ Software Engineering student at PUCRS and developer intern at Agromai. Focused o
 <h3 align="center">Social media.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bryan-brasil/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
   <a href="https://github.com/BryanAlmerindo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://tools.ages.pucrs.br/bryan.brasil">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-  <a href="mailto:bryanleandror6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
