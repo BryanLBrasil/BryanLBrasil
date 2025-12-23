@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Bryan Leandro</h1>
 
-<!--
-**BryanLBrasil/BryanLBrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Engineering Student • Backend-focused Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Software Engineering student at PUCRS. Focused on backend development with Python, FastAPI & Django, 
+  but also experienced with Java & Spring. 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="center">Stack.</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,spring,postgres,git,linux" />
+</p>
+
+---
+
+<h3 align="center">Social media.</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bryan-brasil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/BryanAlmerindo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://tools.ages.pucrs.br/bryan.brasil">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+  <a href="mailto:bryanleandror6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">github stats.</h3>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BryanLBrasil&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanLBrasil&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<p align="center">
+  <i>building, learning and evolving — one commit at a time.</i>
+</p>
