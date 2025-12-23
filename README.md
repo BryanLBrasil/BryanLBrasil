@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Bryan Leandro</h1>
 
-<h3 align="center">Software Engineering Student • Backend-focused Developer</h3>
+<h3 align="center">Software Engineering Intern at AGROMAI! • Backend-focused Developer</h3>
 
 <p align="center">
-Software Engineering student at PUCRS. Focused on backend development with Python, FastAPI & Django, 
+Software Engineering student at PUCRS and developer intern at Agromai. Focused on backend development with Python, FastAPI & Django, 
   but also experienced with Java & Spring. 
 </p>
 
@@ -36,15 +36,9 @@ Software Engineering student at PUCRS. Focused on backend development with Pytho
 
 ---
 
-<h3 align="center">github stats.</h3>
+<h3 align="center">Github stats.</h3>
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BryanLBrasil&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanLBrasil&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
----
-
-<p align="center">
-  <i>building, learning and evolving — one commit at a time.</i>
-</p>
