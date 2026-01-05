@@ -4,5 +4,4 @@
 Software Engineer developer intern at Agromai. Focused on backend development with Python, Django & FastAPI, 
   but also experienced with Java & Spring. 
 </p>
-
 ---
